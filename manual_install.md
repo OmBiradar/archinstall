@@ -144,3 +144,5 @@ sudo systemctl enable --now sddm
 ```
 
 And you are done!
+
+> Additionally I found that installing some more software was usefull and is covered in this sectiton
