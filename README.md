@@ -1,7 +1,9 @@
 # archinstall
 
-Dedicated to installing arch linux
+Dedicated to everything arch and linux
 
-This will start with containing support for setting up manually and later will provide for other methods
+Updates will be weakly cause it is wired commiting daily 😅
+
+Please feel free to correct anything or add anything that you would like to see here!!
 
 cheers!
