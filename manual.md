@@ -1,4 +1,4 @@
-# Hyperland
+# Manual Install
 
 Setting up hyperland arch linux from scratch
 
